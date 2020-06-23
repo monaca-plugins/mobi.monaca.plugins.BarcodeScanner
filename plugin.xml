@@ -4,7 +4,7 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:rim="http://www.blackberry.com/ns/widgets"
     id="monaca-plugin-barcodescanner"
-    version="1.1.4">
+    version="1.1.5">
 
     <name>BarcodeScanner</name>
 	<description>
